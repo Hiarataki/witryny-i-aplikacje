@@ -1,0 +1,76 @@
+
+#header
+{
+	position: absolute; top: 0px; left: 0px;
+	background-color: lightgreen;
+	width: auto;
+    height: 100px;
+	margin: 0 auto;
+}
+
+#h1
+{
+	position: absolute; top: 0px; left: 1px;
+	background-color: lightgreen;
+	width: 700px;
+	font-size: 20px;
+	
+	text-align: center;
+	font-size: 20px;
+}
+
+p
+{
+	text-align: center;
+	font-size: 20px;
+}
+
+
+
+#bloklewy
+{
+	position: absolute; top: 0px; left: 0px;
+	background-color: green;
+	width: 100px;
+    height: 563px;
+	margin: 0 auto;
+}
+
+#blokprawy
+{
+	position: absolute; top: 100px; left: 500px;
+	background-color: #87CEFA;
+	width: 200px;
+    height: 483px;
+	margin: 0 auto;
+
+}
+
+#stopa
+
+{
+	position: absolute; top: 520px; left: 0px;
+	background-color: #1E90FF;
+	width: 500px;
+    height: auto;
+	margin: 0 auto;
+
+}
+
+
+
+#tekst
+{
+	position: absolute; top: 150px; left: 245px;
+	text-align: center;
+	font-size: 12px;
+}
+
+#zdiecie
+{
+	position: absolute; top: 180px; left: 95px;
+	width: 150px;
+    height: 150px;
+	background-image:url(kawa.png);
+		/*background-color: green;*/
+}
